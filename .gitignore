@@ -1,0 +1,8 @@
+.idea
+bin
+vendor
+
+*.iml
+*.txt
+
+.DS_Store
